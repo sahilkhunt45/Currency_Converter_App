@@ -10,9 +10,3 @@ A new Flutter project.
 <p align=center>
 <img src= "https://user-images.githubusercontent.com/111565916/192002072-03949f29-81d9-4031-9f0c-f5140cd2a772.jpg" height=500 width=250>
 <p>
- 
- 
-<p align=center>
-<img src= "https://user-images.githubusercontent.com/111565916/192002072-03949f29-81d9-4031-9f0c-f5140cd2a772.jpg" height=500 width=250>
-<p>
- 
