@@ -4,14 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src= "https://user-images.githubusercontent.com/111565916/192001602-4cdb8e32-3d4d-4709-aa78-de14e7d21a53.jpg" height=500 width=250> <img src= "https://user-images.githubusercontent.com/111565916/192001754-92fb572f-dd2e-4d41-8976-caae37e786f7.jpg" height=500 width=250> <img src= "https://user-images.githubusercontent.com/111565916/192001919-e68f935b-6e85-402b-91d0-b20b16c37fc4.jpg" height=500 width=250> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Currency_Converter_App" 
+<p align=center>
+<img src= "https://user-images.githubusercontent.com/111565916/192002072-03949f29-81d9-4031-9f0c-f5140cd2a772.jpg" height=500 width=250>
+<p>
+ 
+ 
+<p align=center>
+<img src= "https://user-images.githubusercontent.com/111565916/192002072-03949f29-81d9-4031-9f0c-f5140cd2a772.jpg" height=500 width=250>
+<p>
+ 
